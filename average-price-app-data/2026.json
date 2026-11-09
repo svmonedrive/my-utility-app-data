@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "symbol": "Nifty",
+    "buyDate": "20-Oct-2026",
+    "buyPrice": 90,
+    "quantity": 19,
+    "sellDate": "",
+    "sellPrice": null
+  },
+  {
+    "id": 2,
+    "symbol": "Nifty",
+    "buyDate": "17-Oct-2026",
+    "buyPrice": 97,
+    "quantity": 40,
+    "sellDate": "",
+    "sellPrice": null
+  },
+  {
+    "id": 3,
+    "symbol": "Nifty",
+    "buyDate": "14-Oct-2026",
+    "buyPrice": 104,
+    "quantity": 7,
+    "sellDate": "",
+    "sellPrice": null
+  },
+  {
+    "id": 4,
+    "symbol": "Nifty",
+    "buyDate": "11-Oct-2026",
+    "buyPrice": 111,
+    "quantity": 10,
+    "sellDate": "",
+    "sellPrice": null
+  },
+  {
+    "id": 5,
+    "symbol": "Nifty",
+    "buyDate": "08-Oct-2026",
+    "buyPrice": 118,
+    "quantity": 13,
+    "sellDate": "",
+    "sellPrice": null
+  },
+  {
+    "id": 6,
+    "symbol": "Nifty",
+    "buyDate": "05-Oct-2026",
+    "buyPrice": 125,
+    "quantity": 16,
+    "sellDate": "",
+    "sellPrice": null
+  },
+  {
+    "id": 7,
+    "symbol": "Nifty",
+    "buyDate": "02-Oct-2026",
+    "buyPrice": 92,
+    "quantity": 19,
+    "sellDate": "23-Oct-2026",
+    "sellPrice": 89
+  },
+  {
+    "id": 8,
+    "symbol": "Nifty",
+    "buyDate": "29-Sep-2026",
+    "buyPrice": 99,
+    "quantity": 22,
+    "sellDate": "30-Oct-2026",
+    "sellPrice": 107
+  },
+  {
+    "id": 9,
+    "symbol": "Nifty",
+    "buyDate": "26-Sep-2026",
+    "buyPrice": 106,
+    "quantity": 25,
+    "sellDate": "30-Oct-2026",
+    "sellPrice": 112
+  },
+  {
+    "id": 10,
+    "symbol": "Nifty",
+    "buyDate": "23-Sep-2026",
+    "buyPrice": 113,
+    "quantity": 3,
+    "sellDate": "",
+    "sellPrice": null
+  },
+  {
+    "id": 11,
+    "symbol": "Nifty",
+    "buyDate": "20-Sep-2026",
+    "buyPrice": 120,
+    "quantity": 6,
+    "sellDate": "30-Oct-2026",
+    "sellPrice": 122
+  },
+  {
+    "id": 12,
+    "symbol": "Nifty",
+    "buyDate": "17-Sep-2026",
+    "buyPrice": 127,
+    "quantity": 9,
+    "sellDate": "30-Oct-2026",
+    "sellPrice": 127
+  },
+  {
+    "id": 13,
+    "symbol": "Nifty",
+    "buyDate": "14-Sep-2026",
+    "buyPrice": 94,
+    "quantity": 12,
+    "sellDate": "05-Oct-2026",
+    "sellPrice": 92
+  },
+  {
+    "id": 14,
+    "symbol": "Nifty",
+    "buyDate": "11-Sep-2026",
+    "buyPrice": 101,
+    "quantity": 15,
+    "sellDate": "15-Oct-2026",
+    "sellPrice": 97
+  },
+  {
+    "id": 15,
+    "symbol": "Nifty",
+    "buyDate": "08-Sep-2026",
+    "buyPrice": 108,
+    "quantity": 18,
+    "sellDate": "25-Oct-2026",
+    "sellPrice": 115
+  },
+  {
+    "id": 16,
+    "symbol": "Nifty",
+    "buyDate": "05-Sep-2026",
+    "buyPrice": 115,
+    "quantity": 21,
+    "sellDate": "30-Oct-2026",
+    "sellPrice": 120
+  },
+  {
+    "id": 17,
+    "symbol": "Nifty",
+    "buyDate": "02-Sep-2026",
+    "buyPrice": 122,
+    "quantity": 24,
+    "sellDate": "30-Oct-2026",
+    "sellPrice": 125
+  },
+  {
+    "id": 18,
+    "symbol": "Nifty",
+    "buyDate": "30-Aug-2026",
+    "buyPrice": 129,
+    "quantity": 2,
+    "sellDate": "30-Oct-2026",
+    "sellPrice": 130
+  },
+  {
+    "id": 19,
+    "symbol": "Nifty",
+    "buyDate": "27-Aug-2026",
+    "buyPrice": 96,
+    "quantity": 5,
+    "sellDate": "17-Sep-2026",
+    "sellPrice": 95
+  },
+  {
+    "id": 20,
+    "symbol": "Nifty",
+    "buyDate": "24-Aug-2026",
+    "buyPrice": 103,
+    "quantity": 8,
+    "sellDate": "27-Sep-2026",
+    "sellPrice": 100
+  },
+  {
+    "id": 21,
+    "symbol": "Nifty",
+    "buyDate": "21-Aug-2026",
+    "buyPrice": 110,
+    "quantity": 11,
+    "sellDate": "07-Oct-2026",
+    "sellPrice": 118
+  },
+  {
+    "id": 22,
+    "symbol": "Nifty",
+    "buyDate": "18-Aug-2026",
+    "buyPrice": 117,
+    "quantity": 14,
+    "sellDate": "17-Oct-2026",
+    "sellPrice": 123
+  },
+  {
+    "id": 23,
+    "symbol": "Nifty",
+    "buyDate": "15-Aug-2026",
+    "buyPrice": 124,
+    "quantity": 17,
+    "sellDate": "27-Oct-2026",
+    "sellPrice": 128
+  },
+  {
+    "id": 24,
+    "symbol": "Nifty",
+    "buyDate": "12-Aug-2026",
+    "buyPrice": 91,
+    "quantity": 20,
+    "sellDate": "30-Oct-2026",
+    "sellPrice": 93
+  },
+  {
+    "id": 25,
+    "symbol": "Nifty",
+    "buyDate": "09-Aug-2026",
+    "buyPrice": 98,
+    "quantity": 23,
+    "sellDate": "",
+    "sellPrice": null
+  },
+  {
+    "id": 26,
+    "symbol": "Nifty",
+    "buyDate": "06-Aug-2026",
+    "buyPrice": 105,
+    "quantity": 1,
+    "sellDate": "09-Sep-2026",
+    "sellPrice": 103
+  },
+  {
+    "id": 27,
+    "symbol": "Nifty",
+    "buyDate": "03-Aug-2026",
+    "buyPrice": 112,
+    "quantity": 4,
+    "sellDate": "19-Sep-2026",
+    "sellPrice": 108
+  },
+  {
+    "id": 28,
+    "symbol": "Nifty",
+    "buyDate": "31-Jul-2026",
+    "buyPrice": 119,
+    "quantity": 7,
+    "sellDate": "29-Sep-2026",
+    "sellPrice": 126
+  },
+  {
+    "id": 29,
+    "symbol": "Nifty",
+    "buyDate": "28-Jul-2026",
+    "buyPrice": 126,
+    "quantity": 10,
+    "sellDate": "09-Oct-2026",
+    "sellPrice": 131
+  },
+  {
+    "id": 30,
+    "symbol": "Nifty",
+    "buyDate": "25-Jul-2026",
+    "buyPrice": 93,
+    "quantity": 13,
+    "sellDate": "19-Oct-2026",
+    "sellPrice": 96
+  },
+  {
+    "id": 31,
+    "symbol": "Nifty",
+    "buyDate": "22-Jul-2026",
+    "buyPrice": 100,
+    "quantity": 16,
+    "sellDate": "12-Aug-2026",
+    "sellPrice": 101
+  },
+  {
+    "id": 32,
+    "symbol": "Nifty",
+    "buyDate": "19-Jul-2026",
+    "buyPrice": 107,
+    "quantity": 19,
+    "sellDate": "22-Aug-2026",
+    "sellPrice": 106
+  },
+  {
+    "id": 33,
+    "symbol": "Nifty",
+    "buyDate": "16-Jul-2026",
+    "buyPrice": 114,
+    "quantity": 22,
+    "sellDate": "01-Sep-2026",
+    "sellPrice": 111
+  },
+  {
+    "id": 34,
+    "symbol": "Nifty",
+    "buyDate": "13-Jul-2026",
+    "buyPrice": 121,
+    "quantity": 25,
+    "sellDate": "11-Sep-2026",
+    "sellPrice": 129
+  },
+  {
+    "id": 35,
+    "symbol": "Nifty",
+    "buyDate": "10-Jul-2026",
+    "buyPrice": 128,
+    "quantity": 3,
+    "sellDate": "21-Sep-2026",
+    "sellPrice": 134
+  },
+  {
+    "id": 36,
+    "symbol": "Nifty",
+    "buyDate": "07-Jul-2026",
+    "buyPrice": 95,
+    "quantity": 6,
+    "sellDate": "01-Oct-2026",
+    "sellPrice": 99
+  },
+  {
+    "id": 37,
+    "symbol": "Nifty",
+    "buyDate": "04-Jul-2026",
+    "buyPrice": 102,
+    "quantity": 9,
+    "sellDate": "25-Jul-2026",
+    "sellPrice": 104
+  },
+  {
+    "id": 38,
+    "symbol": "Nifty",
+    "buyDate": "01-Jul-2026",
+    "buyPrice": 109,
+    "quantity": 12,
+    "sellDate": "04-Aug-2026",
+    "sellPrice": 109
+  },
+  {
+    "id": 39,
+    "symbol": "Nifty",
+    "buyDate": "28-Jun-2026",
+    "buyPrice": 116,
+    "quantity": 15,
+    "sellDate": "14-Aug-2026",
+    "sellPrice": 114
+  },
+  {
+    "id": 40,
+    "symbol": "Nifty",
+    "buyDate": "25-Jun-2026",
+    "buyPrice": 123,
+    "quantity": 18,
+    "sellDate": "",
+    "sellPrice": null
+  },
+  {
+    "id": 41,
+    "symbol": "Nifty",
+    "buyDate": "22-Jun-2026",
+    "buyPrice": 90,
+    "quantity": 21,
+    "sellDate": "03-Sep-2026",
+    "sellPrice": 97
+  },
+  {
+    "id": 42,
+    "symbol": "Nifty",
+    "buyDate": "19-Jun-2026",
+    "buyPrice": 97,
+    "quantity": 24,
+    "sellDate": "13-Sep-2026",
+    "sellPrice": 102
+  },
+  {
+    "id": 43,
+    "symbol": "Nifty",
+    "buyDate": "16-Jun-2026",
+    "buyPrice": 104,
+    "quantity": 2,
+    "sellDate": "07-Jul-2026",
+    "sellPrice": 107
+  },
+  {
+    "id": 44,
+    "symbol": "Nifty",
+    "buyDate": "13-Jun-2026",
+    "buyPrice": 111,
+    "quantity": 5,
+    "sellDate": "17-Jul-2026",
+    "sellPrice": 112
+  },
+  {
+    "id": 45,
+    "symbol": "Nifty",
+    "buyDate": "10-Jun-2026",
+    "buyPrice": 118,
+    "quantity": 8,
+    "sellDate": "27-Jul-2026",
+    "sellPrice": 117
+  },
+  {
+    "id": 46,
+    "symbol": "Nifty",
+    "buyDate": "07-Jun-2026",
+    "buyPrice": 125,
+    "quantity": 11,
+    "sellDate": "06-Aug-2026",
+    "sellPrice": 122
+  },
+  {
+    "id": 47,
+    "symbol": "Nifty",
+    "buyDate": "04-Jun-2026",
+    "buyPrice": 92,
+    "quantity": 14,
+    "sellDate": "16-Aug-2026",
+    "sellPrice": 100
+  },
+  {
+    "id": 48,
+    "symbol": "Nifty",
+    "buyDate": "01-Jun-2026",
+    "buyPrice": 99,
+    "quantity": 17,
+    "sellDate": "26-Aug-2026",
+    "sellPrice": 105
+  },
+  {
+    "id": 49,
+    "symbol": "Nifty",
+    "buyDate": "29-May-2026",
+    "buyPrice": 106,
+    "quantity": 20,
+    "sellDate": "19-Jun-2026",
+    "sellPrice": 110
+  },
+  {
+    "id": 50,
+    "symbol": "Nifty",
+    "buyDate": "26-May-2026",
+    "buyPrice": 113,
+    "quantity": 23,
+    "sellDate": "29-Jun-2026",
+    "sellPrice": 115
+  },
+  {
+    "id": 51,
+    "symbol": "Nifty",
+    "buyDate": "23-May-2026",
+    "buyPrice": 120,
+    "quantity": 1,
+    "sellDate": "09-Jul-2026",
+    "sellPrice": 120
+  },
+  {
+    "id": 52,
+    "symbol": "Nifty",
+    "buyDate": "20-May-2026",
+    "buyPrice": 127,
+    "quantity": 4,
+    "sellDate": "19-Jul-2026",
+    "sellPrice": 125
+  },
+  {
+    "id": 53,
+    "symbol": "Nifty",
+    "buyDate": "17-May-2026",
+    "buyPrice": 94,
+    "quantity": 7,
+    "sellDate": "29-Jul-2026",
+    "sellPrice": 90
+  },
+  {
+    "id": 54,
+    "symbol": "Nifty",
+    "buyDate": "14-May-2026",
+    "buyPrice": 101,
+    "quantity": 10,
+    "sellDate": "08-Aug-2026",
+    "sellPrice": 108
+  },
+  {
+    "id": 55,
+    "symbol": "Nifty",
+    "buyDate": "11-May-2026",
+    "buyPrice": 108,
+    "quantity": 13,
+    "sellDate": "",
+    "sellPrice": null
+  },
+  {
+    "id": 56,
+    "symbol": "Nifty",
+    "buyDate": "08-May-2026",
+    "buyPrice": 115,
+    "quantity": 16,
+    "sellDate": "11-Jun-2026",
+    "sellPrice": 118
+  },
+  {
+    "id": 57,
+    "symbol": "Nifty",
+    "buyDate": "05-May-2026",
+    "buyPrice": 122,
+    "quantity": 19,
+    "sellDate": "21-Jun-2026",
+    "sellPrice": 123
+  },
+  {
+    "id": 58,
+    "symbol": "Nifty",
+    "buyDate": "02-May-2026",
+    "buyPrice": 129,
+    "quantity": 22,
+    "sellDate": "01-Jul-2026",
+    "sellPrice": 128
+  },
+  {
+    "id": 59,
+    "symbol": "Nifty",
+    "buyDate": "29-Apr-2026",
+    "buyPrice": 96,
+    "quantity": 25,
+    "sellDate": "11-Jul-2026",
+    "sellPrice": 93
+  },
+  {
+    "id": 60,
+    "symbol": "Nifty",
+    "buyDate": "26-Apr-2026",
+    "buyPrice": 103,
+    "quantity": 3,
+    "sellDate": "21-Jul-2026",
+    "sellPrice": 111
+  },
+  {
+    "id": 61,
+    "symbol": "Nifty",
+    "buyDate": "23-Apr-2026",
+    "buyPrice": 110,
+    "quantity": 6,
+    "sellDate": "14-May-2026",
+    "sellPrice": 116
+  },
+  {
+    "id": 62,
+    "symbol": "Nifty",
+    "buyDate": "20-Apr-2026",
+    "buyPrice": 117,
+    "quantity": 9,
+    "sellDate": "24-May-2026",
+    "sellPrice": 121
+  },
+  {
+    "id": 63,
+    "symbol": "Nifty",
+    "buyDate": "17-Apr-2026",
+    "buyPrice": 124,
+    "quantity": 12,
+    "sellDate": "03-Jun-2026",
+    "sellPrice": 126
+  },
+  {
+    "id": 64,
+    "symbol": "Nifty",
+    "buyDate": "14-Apr-2026",
+    "buyPrice": 91,
+    "quantity": 15,
+    "sellDate": "13-Jun-2026",
+    "sellPrice": 91
+  },
+  {
+    "id": 65,
+    "symbol": "Nifty",
+    "buyDate": "11-Apr-2026",
+    "buyPrice": 98,
+    "quantity": 18,
+    "sellDate": "23-Jun-2026",
+    "sellPrice": 96
+  },
+  {
+    "id": 66,
+    "symbol": "Nifty",
+    "buyDate": "08-Apr-2026",
+    "buyPrice": 105,
+    "quantity": 21,
+    "sellDate": "03-Jul-2026",
+    "sellPrice": 101
+  },
+  {
+    "id": 67,
+    "symbol": "Nifty",
+    "buyDate": "05-Apr-2026",
+    "buyPrice": 112,
+    "quantity": 24,
+    "sellDate": "26-Apr-2026",
+    "sellPrice": 119
+  },
+  {
+    "id": 68,
+    "symbol": "Nifty",
+    "buyDate": "02-Apr-2026",
+    "buyPrice": 119,
+    "quantity": 2,
+    "sellDate": "06-May-2026",
+    "sellPrice": 124
+  },
+  {
+    "id": 69,
+    "symbol": "Nifty",
+    "buyDate": "30-Mar-2026",
+    "buyPrice": 126,
+    "quantity": 5,
+    "sellDate": "16-May-2026",
+    "sellPrice": 129
+  },
+  {
+    "id": 70,
+    "symbol": "Nifty",
+    "buyDate": "27-Mar-2026",
+    "buyPrice": 93,
+    "quantity": 8,
+    "sellDate": "",
+    "sellPrice": null
+  },
+  {
+    "id": 71,
+    "symbol": "Nifty",
+    "buyDate": "24-Mar-2026",
+    "buyPrice": 100,
+    "quantity": 11,
+    "sellDate": "05-Jun-2026",
+    "sellPrice": 99
+  },
+  {
+    "id": 72,
+    "symbol": "Nifty",
+    "buyDate": "21-Mar-2026",
+    "buyPrice": 107,
+    "quantity": 14,
+    "sellDate": "15-Jun-2026",
+    "sellPrice": 104
+  },
+  {
+    "id": 73,
+    "symbol": "Nifty",
+    "buyDate": "18-Mar-2026",
+    "buyPrice": 114,
+    "quantity": 17,
+    "sellDate": "08-Apr-2026",
+    "sellPrice": 122
+  },
+  {
+    "id": 74,
+    "symbol": "Nifty",
+    "buyDate": "15-Mar-2026",
+    "buyPrice": 121,
+    "quantity": 20,
+    "sellDate": "18-Apr-2026",
+    "sellPrice": 127
+  },
+  {
+    "id": 75,
+    "symbol": "Nifty",
+    "buyDate": "12-Mar-2026",
+    "buyPrice": 128,
+    "quantity": 23,
+    "sellDate": "28-Apr-2026",
+    "sellPrice": 132
+  },
+  {
+    "id": 76,
+    "symbol": "Nifty",
+    "buyDate": "09-Mar-2026",
+    "buyPrice": 95,
+    "quantity": 1,
+    "sellDate": "08-May-2026",
+    "sellPrice": 97
+  },
+  {
+    "id": 77,
+    "symbol": "Nifty",
+    "buyDate": "06-Mar-2026",
+    "buyPrice": 102,
+    "quantity": 4,
+    "sellDate": "18-May-2026",
+    "sellPrice": 102
+  },
+  {
+    "id": 78,
+    "symbol": "Nifty",
+    "buyDate": "03-Mar-2026",
+    "buyPrice": 109,
+    "quantity": 7,
+    "sellDate": "28-May-2026",
+    "sellPrice": 107
+  },
+  {
+    "id": 79,
+    "symbol": "Nifty",
+    "buyDate": "28-Feb-2026",
+    "buyPrice": 116,
+    "quantity": 10,
+    "sellDate": "21-Mar-2026",
+    "sellPrice": 112
+  },
+  {
+    "id": 80,
+    "symbol": "Nifty",
+    "buyDate": "25-Feb-2026",
+    "buyPrice": 123,
+    "quantity": 13,
+    "sellDate": "31-Mar-2026",
+    "sellPrice": 130
+  },
+  {
+    "id": 81,
+    "symbol": "Nifty",
+    "buyDate": "22-Feb-2026",
+    "buyPrice": 90,
+    "quantity": 16,
+    "sellDate": "10-Apr-2026",
+    "sellPrice": 95
+  },
+  {
+    "id": 82,
+    "symbol": "Nifty",
+    "buyDate": "19-Feb-2026",
+    "buyPrice": 97,
+    "quantity": 19,
+    "sellDate": "20-Apr-2026",
+    "sellPrice": 100
+  },
+  {
+    "id": 83,
+    "symbol": "Nifty",
+    "buyDate": "16-Feb-2026",
+    "buyPrice": 104,
+    "quantity": 22,
+    "sellDate": "30-Apr-2026",
+    "sellPrice": 105
+  },
+  {
+    "id": 84,
+    "symbol": "Nifty",
+    "buyDate": "13-Feb-2026",
+    "buyPrice": 111,
+    "quantity": 25,
+    "sellDate": "10-May-2026",
+    "sellPrice": 110
+  },
+  {
+    "id": 85,
+    "symbol": "Nifty",
+    "buyDate": "10-Feb-2026",
+    "buyPrice": 118,
+    "quantity": 3,
+    "sellDate": "",
+    "sellPrice": null
+  },
+  {
+    "id": 86,
+    "symbol": "Nifty",
+    "buyDate": "07-Feb-2026",
+    "buyPrice": 125,
+    "quantity": 6,
+    "sellDate": "13-Mar-2026",
+    "sellPrice": 133
+  },
+  {
+    "id": 87,
+    "symbol": "Nifty",
+    "buyDate": "04-Feb-2026",
+    "buyPrice": 92,
+    "quantity": 9,
+    "sellDate": "23-Mar-2026",
+    "sellPrice": 98
+  },
+  {
+    "id": 88,
+    "symbol": "Nifty",
+    "buyDate": "01-Feb-2026",
+    "buyPrice": 99,
+    "quantity": 12,
+    "sellDate": "02-Apr-2026",
+    "sellPrice": 103
+  },
+  {
+    "id": 89,
+    "symbol": "Nifty",
+    "buyDate": "29-Jan-2026",
+    "buyPrice": 106,
+    "quantity": 15,
+    "sellDate": "12-Apr-2026",
+    "sellPrice": 108
+  },
+  {
+    "id": 90,
+    "symbol": "Nifty",
+    "buyDate": "26-Jan-2026",
+    "buyPrice": 113,
+    "quantity": 18,
+    "sellDate": "22-Apr-2026",
+    "sellPrice": 113
+  },
+  {
+    "id": 91,
+    "symbol": "Nifty",
+    "buyDate": "23-Jan-2026",
+    "buyPrice": 120,
+    "quantity": 21,
+    "sellDate": "13-Feb-2026",
+    "sellPrice": 118
+  },
+  {
+    "id": 92,
+    "symbol": "Nifty",
+    "buyDate": "20-Jan-2026",
+    "buyPrice": 127,
+    "quantity": 24,
+    "sellDate": "23-Feb-2026",
+    "sellPrice": 123
+  },
+  {
+    "id": 93,
+    "symbol": "Nifty",
+    "buyDate": "17-Jan-2026",
+    "buyPrice": 94,
+    "quantity": 2,
+    "sellDate": "05-Mar-2026",
+    "sellPrice": 101
+  },
+  {
+    "id": 94,
+    "symbol": "Nifty",
+    "buyDate": "14-Jan-2026",
+    "buyPrice": 101,
+    "quantity": 5,
+    "sellDate": "15-Mar-2026",
+    "sellPrice": 106
+  },
+  {
+    "id": 95,
+    "symbol": "Nifty",
+    "buyDate": "11-Jan-2026",
+    "buyPrice": 108,
+    "quantity": 8,
+    "sellDate": "25-Mar-2026",
+    "sellPrice": 111
+  },
+  {
+    "id": 96,
+    "symbol": "Nifty",
+    "buyDate": "08-Jan-2026",
+    "buyPrice": 115,
+    "quantity": 11,
+    "sellDate": "04-Apr-2026",
+    "sellPrice": 116
+  },
+  {
+    "id": 97,
+    "symbol": "Nifty",
+    "buyDate": "05-Jan-2026",
+    "buyPrice": 122,
+    "quantity": 14,
+    "sellDate": "26-Jan-2026",
+    "sellPrice": 121
+  },
+  {
+    "id": 98,
+    "symbol": "Nifty",
+    "buyDate": "02-Jan-2026",
+    "buyPrice": 129,
+    "quantity": 17,
+    "sellDate": "05-Feb-2026",
+    "sellPrice": 126
+  },
+  {
+    "id": 99,
+    "symbol": "Nifty",
+    "buyDate": "30-Dec-2025",
+    "buyPrice": 96,
+    "quantity": 20,
+    "sellDate": "15-Feb-2026",
+    "sellPrice": 104
+  },
+  {
+    "id": 100,
+    "symbol": "Nifty",
+    "buyDate": "27-Dec-2025",
+    "buyPrice": 103,
+    "quantity": 23,
+    "sellDate": "",
+    "sellPrice": null
+  }
+]
