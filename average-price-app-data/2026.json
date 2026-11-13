@@ -5,8 +5,8 @@
     "buyDate": "08-Oct-2026",
     "buyPrice": 254.5,
     "quantity": 392,
-    "sellDate": "",
-    "sellPrice": null
+    "sellDate": "12-Nov-2026",
+    "sellPrice": 288.5
   },
   {
     "id": 2,
@@ -14,8 +14,8 @@
     "buyDate": "01-Oct-2026",
     "buyPrice": 258,
     "quantity": 387,
-    "sellDate": "",
-    "sellPrice": null
+    "sellDate": "12-Nov-2026",
+    "sellPrice": 288.5
   },
   {
     "id": 3,
