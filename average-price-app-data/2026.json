@@ -23,8 +23,8 @@
     "buyDate": "28-Sep-2026",
     "buyPrice": 261.5,
     "quantity": 382,
-    "sellDate": "",
-    "sellPrice": null
+    "sellDate": "12-Nov-2026",
+    "sellPrice": 288.5
   },
   {
     "id": 4,
@@ -32,8 +32,8 @@
     "buyDate": "15-Sep-2026",
     "buyPrice": 266,
     "quantity": 375,
-    "sellDate": "",
-    "sellPrice": null
+    "sellDate": "12-Nov-2026",
+    "sellPrice": 288.5
   },
   {
     "id": 5,
@@ -41,8 +41,8 @@
     "buyDate": "08-Sep-2026",
     "buyPrice": 270,
     "quantity": 370,
-    "sellDate": "",
-    "sellPrice": null
+    "sellDate": "12-Nov-2026",
+    "sellPrice": 288.5
   },
   {
     "id": 6,
@@ -50,8 +50,8 @@
     "buyDate": "02-Sep-2026",
     "buyPrice": 272.5,
     "quantity": 366,
-    "sellDate": "",
-    "sellPrice": null
+    "sellDate": "12-Nov-2026",
+    "sellPrice": 288.5
   },
   {
     "id": 7,
@@ -59,8 +59,8 @@
     "buyDate": "31-Aug-2026",
     "buyPrice": 274,
     "quantity": 364,
-    "sellDate": "",
-    "sellPrice": null
+    "sellDate": "12-Nov-2026",
+    "sellPrice": 288.5
   },
   {
     "id": 8,
@@ -68,8 +68,8 @@
     "buyDate": "18-Aug-2026",
     "buyPrice": 276.7,
     "quantity": 361,
-    "sellDate": "",
-    "sellPrice": null
+    "sellDate": "12-Nov-2026",
+    "sellPrice": 288.5
   },
   {
     "id": 9,
