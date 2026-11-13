@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": 1,
+    "symbol": "Nifty",
+    "buyDate": "12-Nov-2026",
+    "buyPrice": 286,
+    "quantity": 100,
+    "sellDate": "",
+    "sellPrice": null
+  }
+]
