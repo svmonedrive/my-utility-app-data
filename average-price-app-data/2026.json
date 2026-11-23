@@ -1,5 +1,14 @@
 [
   {
+    "id": 28,
+    "symbol": "TataSteel",
+    "buyDate": "23-Nov-2026",
+    "buyPrice": 167.5,
+    "quantity": 298,
+    "sellDate": "",
+    "sellPrice": null
+  },
+  {
     "id": 1,
     "symbol": "Nifty",
     "buyDate": "08-Oct-2026",
